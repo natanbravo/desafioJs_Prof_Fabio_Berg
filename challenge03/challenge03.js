@@ -33,8 +33,7 @@ console.log(myFunctionTwo(7, 2, 3, 4, 5, 1)); //4.8
 console.log(myFunctionTwo(4, 7, 5, 2, 3, 2)); //16
 
 //Despite in this case we made "myFunctionTwo" resumed inside of parentheses;
-//Doing like this we may shorten our operation e get a bit of more pratical code;
+//Doing like this we may shorten our operation to get a bit of more pratical code;
 //Negative points : this way to generating results affects directly in scalability of a real project for exemple;
 //By the way it's important to know about both methods and when to use each;
 
-// return (((a + b - c) * d) / e) ** f;

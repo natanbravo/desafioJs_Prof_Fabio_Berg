@@ -1,4 +1,4 @@
-//Escreva uma função que recebe um parâmetr e retorna o tipo do valor recebido nesse parãmetro;
+//Escreva uma função que recebe um parâmetro e retorna o tipo do valor recebido nesse parãmetro;
 
 
 function myFunction(a) {

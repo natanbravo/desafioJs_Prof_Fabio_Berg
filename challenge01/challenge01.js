@@ -1,5 +1,5 @@
 
-//Escreva uma função que recebe dois valores (a,b) coo parâmetros;
+//Escreva uma função que recebe dois valores (a,b) como parâmetros;
 //Essa função deve retornar "true" se os dois valores forem iguais e do mesmo tipo;
 //Caso contrário, "false";
 
