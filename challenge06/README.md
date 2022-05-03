@@ -1,2 +1,2 @@
 
-  <a href="https://wa.me/5545999436863" target="_blank"><img src="https://images.pexels.com/photos/1252983/pexels-photo-1252983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" target="_blank"></a>
+  <a target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/3020de142914517.627080a5767d7.png" target="_blank"></a>
