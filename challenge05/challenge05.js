@@ -2,7 +2,7 @@
 
 //Write a function that receives two parameters (fullname, flag);
 //If "flag" it's equal to "firtsname", it must only return the "fullname" parameter's first name;
-//If "flag" it's equal "lastname", it must return the full text but not the "fullname" first word's parameter;
+//If "flag" it's equal to "lastname", it must return the full text but not the "fullname" first word's parameter;
 //If the "flag" parameter it's empty or even "fullname" had only one word, return only "fullname" content;
 
 function myFunction(fullname, flag = "") {
