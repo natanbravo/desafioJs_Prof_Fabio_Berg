@@ -5,6 +5,7 @@ function myFunction (a, b){
     return b.split(a).length -1;
     
 }
+
 console.log(myFunction("H", "How many times the value of 'a' repeats here ? " )); //1
 console.log(myFunction("h", "How many times the value of 'a' repeats here ? " )); //2
 console.log(myFunction("a", "How many times the value of 'a' repeats here ? " )); //4
