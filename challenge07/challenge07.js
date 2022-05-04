@@ -17,7 +17,7 @@ console.log(myFunction("Surf", "How many times the value of 'a' repeats here ? "
 //=====================//=====================//=====================//=====================//=====================
 
 
-//SECOND WAY TO SOLVE THIS CHALLENGE;   
+//SECOND WAY TO SOLVE THIS CHALLENGE (USING REGEX);   
 
 function myFunctionTwo(a, b){
     return b.match(new RegExp (a, "gi")).length;
@@ -31,7 +31,7 @@ console.log(myFunctionTwo("How", "How many times the value of 'a' repeats here ?
 //=====================//=====================//=====================//=====================//=====================
 
 
-//THIRD WAY TOSOLVE THIS PROBLEM;
+//THIRD WAY TO SOLVE THIS PROBLEM;
 
 function myFunctionThree(a,b){
     return b.toLowerCase().split(a.toLowerCase()).length;
