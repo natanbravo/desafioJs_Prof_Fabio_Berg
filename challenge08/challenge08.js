@@ -30,6 +30,7 @@ function myFunctionTwo(a){
     return a.length > 3 ? a.slice(3) : [];
 }
 
+
 console.log(myFunctionTwo([1,2,3,4,5])); //[4,5]
 console.log(myFunctionTwo([5,4,3,2,1,0])); //[2,1,0]
 console.log(myFunctionTwo([10,20,30])); //[]
