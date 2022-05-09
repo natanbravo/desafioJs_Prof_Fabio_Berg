@@ -16,12 +16,12 @@ Solve the following problem:
 THE SIMPLIFIED VERSION WITCH IS EASIER AND PRACTICAL
 
 
-<a target="_blank"><img src="blob:https://collect.wetransfer.com/9e479041-edc5-442b-ad6c-a19e1952d358" target="_blank"></a>
+<a target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/4965e5142914517.6278ff6741f0f.png" target="_blank"></a>
 
 
 
 THE LONGER VERSION WITCH IS A BIT MORE COMPLEX BUT IT WORKS PERFECTLY
 
 
-<a target="_blank"><img src="blob:https://collect.wetransfer.com/bc4a25b2-0175-446c-98d1-5df5e07585e9" target="_blank"></a>
+<a target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/f9cd6e142914517.6278ff6742743.png" target="_blank"></a>
 
