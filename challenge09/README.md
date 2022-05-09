@@ -1,4 +1,4 @@
-# CHALLENGE 09 : Arrays ;
+# CHALLENGE 09 : Arrays 
 
 Solve the following problem:
 
