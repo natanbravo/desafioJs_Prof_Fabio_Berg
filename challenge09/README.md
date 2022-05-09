@@ -2,8 +2,10 @@
 
 Solve the following problem:
 
-1* Write a function that receives an array "a" and a value "b" as a paramater;
-2* The function must remove all ocurrencies of "b" and return a filtered array;
+1 Write a function that receives an array "a" and a value "b" as a paramater;
+</br> 
+
+2 The function must remove all ocurrencies of "b" and return a filtered array;
 
 
 
