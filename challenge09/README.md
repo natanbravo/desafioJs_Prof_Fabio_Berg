@@ -1,3 +1,7 @@
+<a target="_blank"><video src="https://www.canva.com/design/DAFAM9lISbU/rwz0_nF7KRKvzeSkcSiC_g/view?utm_content=DAFAM9lISbU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"></a>
+
+
+
 # CHALLENGE 09 : Arrays 
 
 Solve the following problem:
@@ -11,7 +15,7 @@ Solve the following problem:
 
 
 
-# Here's ,my solution of this challenge;
+# Here's my solution of this challenge;
 
 
 
